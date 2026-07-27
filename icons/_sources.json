@@ -1,0 +1,10 @@
+{
+  "blissland": {
+    "sha": "4a3f9cfca0bfaccc6441e1762fcfec8eecc6ca770bbac9d6215ed6f7f4add9df",
+    "src": "https://github.com/conmangangqua/tranquil_app/releases/download/prod/blissland_icon.png"
+  },
+  "luminary_pdf": {
+    "sha": "65b9f9509f21c3e588cbe7833696c425561cc226bbe181f9a8f97cf1f5ee7b0f",
+    "src": "https://github.com/conmangangqua/tranquil_app/releases/download/prod/luminary_pdf_icon.png"
+  }
+}
