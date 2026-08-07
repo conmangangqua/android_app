@@ -20,29 +20,6 @@
       "category_source": null,
       "store_updated": null,
       "store_version": null
-    },
-    {
-      "id": "luminary_pdf",
-      "name": "Luminary Pdf",
-      "icon": "icons/luminary_pdf.webp",
-      "platform": "Android",
-      "description": "",
-      "features": [],
-      "downloads": {
-        "dev": "https://github.com/conmangangqua/tranquil_app/releases/download/dev/luminary_pdf_dev.apk",
-        "prod": "https://github.com/conmangangqua/tranquil_app/releases/download/prod/luminary_pdf_prod.apk",
-        "aab": "https://github.com/conmangangqua/tranquil_app/releases/download/aab/luminary_pdf.aab"
-      },
-      "versions": {
-        "dev": "1.0.0+1",
-        "prod": "1.0.0+1",
-        "aab": "1.0.0+26072201"
-      },
-      "store": "",
-      "category": null,
-      "category_source": null,
-      "store_updated": null,
-      "store_version": null
     }
   ]
 }
