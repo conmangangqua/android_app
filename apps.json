@@ -37,8 +37,8 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": "Communication",
-      "category_source": "store",
+      "category": "Caller ID",
+      "category_source": "rule",
       "store_updated": null,
       "store_version": null
     }
