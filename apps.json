@@ -9,11 +9,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/tranquil_app/releases/download/dev/bingepop_dev.apk",
-        "prod": "https://github.com/conmangangqua/tranquil_app/releases/download/prod/bingepop_prod.apk"
+        "prod": "https://github.com/conmangangqua/tranquil_app/releases/download/prod/bingepop_prod.apk",
+        "aab": "https://github.com/conmangangqua/tranquil_app/releases/download/aab/bingepop.aab"
       },
       "versions": {
         "dev": "1.0.0+1",
-        "prod": "1.0.0+1"
+        "prod": "1.0.0+1",
+        "aab": "1.0.0+26080901"
       },
       "store": "",
       "category": "movie",
