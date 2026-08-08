@@ -10,5 +10,9 @@
   "bingepop": {
     "sha": "0d66c4e79033a6c36a9bd3fd34ba0388d7fe985327f684016b6accb097c32744",
     "src": "https://github.com/conmangangqua/tranquil_app/releases/download/dev/bingepop_icon.png"
+  },
+  "ringlo": {
+    "sha": "7a6f073c7e5ccf264b45b1c17ea41264db4033a19a0bcd994df1cf7a9477e76c",
+    "src": "https://github.com/conmangangqua/tranquil_app/releases/download/dev/ringlo_icon.png"
   }
 }
