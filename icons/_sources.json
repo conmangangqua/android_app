@@ -6,5 +6,9 @@
   "knowcall": {
     "sha": "4995a1bb89ded65610efb78732b96c1929b17ea68810e874775338ee021581f3",
     "src": "https://github.com/conmangangqua/tranquil_app/releases/download/dev/knowcall_icon.png"
+  },
+  "bingepop": {
+    "sha": "0d66c4e79033a6c36a9bd3fd34ba0388d7fe985327f684016b6accb097c32744",
+    "src": "https://github.com/conmangangqua/tranquil_app/releases/download/dev/bingepop_icon.png"
   }
 }
