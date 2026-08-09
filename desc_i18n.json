@@ -1,6 +1,18 @@
 {
+ "bingepop": {
+  "en": "Short drama, vertical: binge romance, CEO and mafia series in bite-size eps",
+  "vi": "Phim chính kịch ngắn, theo chiều dọc: chuyện tình lãng mạn say sưa, loạt phim về CEO và mafia trong các tập ngắn"
+ },
  "blissland": {
   "en": "Sleep Sounds & Smart Alarm",
   "vi": "Âm thanh khi ngủ & Báo thức thông minh"
+ },
+ "knowcall": {
+  "en": "Caller ID & spam blocker: see who is calling and catch alerts you missed",
+  "vi": "ID người gọi và trình chặn thư rác: xem ai đang gọi và nhận thông báo bạn bỏ lỡ"
+ },
+ "ringlo": {
+  "en": "Caller ID from your contacts, spam call blocker & unseen message tracker.",
+  "vi": "ID người gọi từ danh bạ của bạn, trình chặn cuộc gọi spam và trình theo dõi tin nhắn chưa xem."
  }
 }
