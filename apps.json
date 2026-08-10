@@ -82,7 +82,7 @@
         "prod": "1.0.0+26080901",
         "aab": "1.0.0+26080901"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.ringlo.caller",
       "category": "Caller ID",
       "category_source": "rule",
       "store_updated": null,
