@@ -80,7 +80,7 @@
       "versions": {
         "dev": "1.0.0+26080901",
         "prod": "1.0.0+26080901",
-        "aab": "1.0.0+26080901"
+        "aab": "1.0.1+26081101"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.ringlo.caller",
       "category": "Caller ID",
