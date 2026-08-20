@@ -74,7 +74,8 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/tranquil_app/releases/download/dev/ringlo_dev.apk",
-        "prod": "https://github.com/conmangangqua/tranquil_app/releases/download/prod/ringlo_prod.apk"
+        "prod": "https://github.com/conmangangqua/tranquil_app/releases/download/prod/ringlo_prod.apk",
+        "aab": "https://github.com/conmangangqua/tranquil_app/releases/download/aab/ringlo.aab"
       },
       "versions": {
         "dev": "1.0.3+26081901",
