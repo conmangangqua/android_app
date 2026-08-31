@@ -14,5 +14,9 @@
   "ringlo": {
     "sha": "7a6f073c7e5ccf264b45b1c17ea41264db4033a19a0bcd994df1cf7a9477e76c",
     "src": "https://github.com/conmangangqua/tranquil_app/releases/download/dev/ringlo_icon.png"
+  },
+  "kaleidra": {
+    "sha": "dde47515d53947ded2df2b05e147aafa820b5880a592b6b53c5e088189727fa5",
+    "src": "https://github.com/conmangangqua/tranquil_app/releases/download/dev/kaleidra_icon.png"
   }
 }
