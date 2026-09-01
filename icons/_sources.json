@@ -18,5 +18,9 @@
   "kaleidra": {
     "sha": "dde47515d53947ded2df2b05e147aafa820b5880a592b6b53c5e088189727fa5",
     "src": "https://github.com/conmangangqua/tranquil_app/releases/download/dev/kaleidra_icon.png"
+  },
+  "mirevale": {
+    "sha": "146834879d8e5580cfd827372549d12120d8c35c846d7deee2aef65056d34ffc",
+    "src": "https://github.com/conmangangqua/tranquil_app/releases/download/dev/mirevale_icon.png"
   }
 }
