@@ -26,5 +26,9 @@
   "ferelia": {
     "sha": "b631c3459652609898956b3811e4b7b16ed092ba4955c64c82b8fb59ecb781de",
     "src": "https://github.com/conmangangqua/tranquil_app/releases/download/dev/ferelia_icon.png"
+  },
+  "marquisse": {
+    "sha": "382912abc708caae2357415074527765fa591b53b25aa8103de717440cf7dbb1",
+    "src": "https://github.com/conmangangqua/tranquil_app/releases/download/dev/marquisse_icon.png"
   }
 }
