@@ -45,6 +45,25 @@
       "store_version": null
     },
     {
+      "id": "ferelia",
+      "name": "Ferelia",
+      "icon": "icons/ferelia.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/tranquil_app/releases/download/dev/ferelia_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": "Entertainment",
+      "category_source": "gitlab",
+      "store_updated": null,
+      "store_version": null
+    },
+    {
       "id": "kaleidra",
       "name": "Kaleidra",
       "icon": "icons/kaleidra.webp",
