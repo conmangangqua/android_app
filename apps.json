@@ -150,6 +150,25 @@
       "category_source": "rule",
       "store_updated": "Aug 20, 2026",
       "store_version": "26081901 (1.0.3)"
+    },
+    {
+      "id": "thornevale",
+      "name": "Thornevale",
+      "icon": "icons/thornevale.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/tranquil_app/releases/download/dev/thornevale_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null,
+      "store_updated": null,
+      "store_version": null
     }
   ]
 }

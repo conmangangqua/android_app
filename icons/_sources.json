@@ -30,5 +30,9 @@
   "marquisse": {
     "sha": "382912abc708caae2357415074527765fa591b53b25aa8103de717440cf7dbb1",
     "src": "https://github.com/conmangangqua/tranquil_app/releases/download/dev/marquisse_icon.png"
+  },
+  "thornevale": {
+    "sha": "8ea6f710d24ca68fc115d12d192880b454349a46b8a83113d68da29875ee6699",
+    "src": "https://github.com/conmangangqua/tranquil_app/releases/download/dev/thornevale_icon.png"
   }
 }
