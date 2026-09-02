@@ -159,14 +159,16 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/tranquil_app/releases/download/dev/thornevale_dev.apk"
+        "dev": "https://github.com/conmangangqua/tranquil_app/releases/download/dev/thornevale_dev.apk",
+        "prod": "https://github.com/conmangangqua/tranquil_app/releases/download/prod/thornevale_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+1"
+        "dev": "1.0.0+1",
+        "prod": "1.0.0+1"
       },
       "store": "",
-      "category": null,
-      "category_source": null,
+      "category": "Entertainment",
+      "category_source": "gitlab",
       "store_updated": null,
       "store_version": null
     }
