@@ -26,7 +26,7 @@
     {
       "id": "blissland",
       "name": "BlissLand: Habit & Sleep",
-      "icon": "icons/blissland.webp",
+      "icon": "https://github.com/conmangangqua/tranquil_app/releases/download/prod/blissland_icon.png",
       "platform": "iOS",
       "description": "",
       "features": [],
