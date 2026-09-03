@@ -77,6 +77,7 @@
         "prod": "https://github.com/conmangangqua/tranquil_app/releases/download/prod/kaleidra_prod.apk"
       },
       "versions": {
+        "dev": "1.0.0+1",
         "prod": "1.0.0+1"
       },
       "store": "",
